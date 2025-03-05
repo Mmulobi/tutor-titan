@@ -58,7 +58,7 @@ tutor-titan/
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/tutor-titan.git
+   git clone https://github.com/Mmulobi/tutor-titan.git
    cd tutor-titan
    ```
 
